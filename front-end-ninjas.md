@@ -34,4 +34,5 @@
 | [John Resig](https://twitter.com/jeresig) | |
 | [Paul Irish](https://twitter.com/paul_irish) | |
 | [Jeffrey Zeldman](https://twitter.com/zeldman) | |
+| [Jeremy McPeak](https://twitter.com/jwmcpeak) | TutsPlus OOJS |
 | [Philip Roberts](https://twitter.com/philip_roberts) | Known for explaining [JS Event Loop](http://latentflip.com/loupe) |
